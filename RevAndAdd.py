@@ -17,7 +17,7 @@ by performing the following operations:-
 """
 
 
-#this will reverse the string
+#reverse the string
 def Palindrome(n):
     rev=0
     while(n>0):
